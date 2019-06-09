@@ -18,5 +18,13 @@
 3. Based on the general user reaction, comment(sentiment analysis),quality of the post we can bubble up that post to all the user. 
 4. Based on the general user reaction we can create recommendation system. For the subject domain expert we can show them post about such subject etc.
 
+## Local Bodies Profile
+***********************************************************************
+1. Name,Location, ....................etc.
+2. Key Personnel
+3. Contact Info (E-mail, Website,Contact Number, Facebook etc profile) [We willn't be providing Chat Features]
+4. Right to Information Links
+5. Features to track project progress/project details.
+6. View Vaccancy, Notices etc (Quick Links to their own site/upload it directly)
 
 
