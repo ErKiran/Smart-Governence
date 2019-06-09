@@ -17,7 +17,7 @@
 2. For local goverment similar project/work from the other local bodies are matched shown in their feeds. So, that they can get inspiration, etc. **This feature seems to be vauge need to think once**. 
 3. Based on the general user reaction, comment(sentiment analysis),quality of the post we can bubble up that post to all the user. 
 4. Based on the general user reaction we can create recommendation system. For the subject domain expert we can show them post about such subject etc.
-
+5. Post does have special section suggestation/recommendation box apart from the comment where the people are highly recommended to drop their suggestation regarding that posts.
 ## Local Bodies Profile
 ***********************************************************************
 1. Name,Location, ....................etc.
@@ -26,5 +26,13 @@
 4. Right to Information Links
 5. Features to track project progress/project details.
 6. View Vaccancy, Notices etc (Quick Links to their own site/upload it directly)
+
+## General User Profile
+*******************************************************
+1. Name,Age ........................... etc.
+2. Subject Matter Experts(Subject if any)
+3. Comments/Shared Links
+4. Saved Posts (Visible to User Only)
+
 
 
